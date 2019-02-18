@@ -1,0 +1,1316 @@
+body {
+	overflow-x: hidden;
+}
+.bg{
+	background: url(../img/89.png) no-repeat, url(../img/99.png), url(../img/bg.png);
+	width: 1920px;
+	height: 650px;	
+}
+
+ .header {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	max-width: 1920px;
+	height: 150px;
+ }
+ .dropmenu {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 1920px;
+	height: 90px;
+	background-color: #ffffff;
+ }
+.leftSB{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 900px;
+	height: 100px;
+	padding-left: -5px;
+	padding-right: 82px;
+}
+.logo{
+	background: url(../img/logo.png) no-repeat;
+	width: 192px;
+	height: 49px;
+	margin-left: 360px;
+}
+.support{
+	background: url(../img/support.png);
+	width: 231px;
+	height: 60px;
+	margin-right: 22px;
+	margin-top: -30px;
+	
+}
+.buttonRight{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 6px;
+	font-size: 15px;
+	padding: 19px 11px 6px 10px;
+	width: 180px;
+	height: 40px;
+	background: #eb1478;
+	color: white;
+	margin-right: 244px;
+	margin-top: -10px;
+	margin-left: 8px;
+	font-family: 'PT Sans';
+
+}
+.buttonOne{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	width: 332px;
+	height: 142px;
+	margin-left: 792px;
+	margin-top: 89px;
+}
+.what{
+    color:#ffffff;
+    width: 332px;
+    height: 31px;
+    font-family: 'PT Sans';
+    font-size: 34px;
+    font-weight: 700;
+    margin-left: 3px;
+    margin-top: -8px;
+
+}
+.play{
+  	display: flex;
+  	align-items: center;
+  	justify-content: space-between;
+  	border: 4px solid #ffffff;
+  	border-radius: 50px;
+  	background: transparent;
+  	width: 280px;
+  	height: 81px;
+}
+.play2{
+    background: url(../img/play.png) no-repeat;
+    width: 27px;
+	height: 37px;
+	margin-left:31px;
+    margin-top: 15px;
+}
+.name{
+    height: 27px;
+    color: #ffffff;
+    font-family: "PT Sans";
+    font-size: 30px;
+    margin-right: 45px;
+    width: 137px;
+    margin-top: 9px;
+    font-weight: 700;;
+}
+
+.rectangle{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	background: url(../img/rectangle.png);
+	width: 1920px;
+	height: 183px;
+	margin-top: -1px;
+}
+.up{
+   width: 197px;
+   height: 10px;
+   color: #ffffff;
+   font-family: 'PT Sans';
+   font-size: 14px;
+   font-weight: 700;;;
+   text-transform: uppercase;
+   margin-top: -5px;;
+   margin-right: -4px;;;
+}
+.indiegogo{
+	background: url(../img/indiegogo.png) no-repeat;
+	width: 270px;
+	height: 40px;
+	background-color: transparent;
+}
+ /* Style for "dropmenu" */
+.dropmenu{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1920px;
+    height: 90px;
+    background-color: #ffffff;
+}
+.logoFooter{
+	background: url(../img/logofooter.png);
+	width: 180px;
+    height: 44px;
+	margin-left: 116px;
+	margin-top: 4px;
+    
+}
+.supportFooter{
+    background: url(../img/supportFooter.png);
+    width: 325px;
+    height: 30px;
+    margin-right: 27px;
+    margin-top: -4px;
+}
+.JoinUsOn{
+	background-color: #eb1478;
+	width: 180px;
+    height: 40px;
+    border-radius: 5px;
+    border:transparent;
+    color: #ffffff;
+}
+.JoinUsOn p{
+	margin-top: 8px;
+
+}
+.bouth{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+    width: 898px;
+    height: 100px;
+	padding-right: 117px;
+}
+.grannyos{
+	background: url(../img/grannyos.png) no-repeat;
+	width: 1920px;
+	height: 805px;
+	margin-top: -4px;
+}
+/* Style for "GrannyOS B" */
+.benefits p{
+	width: 381px;
+    height: 44px;
+    color: #223444;
+    font-family: "PT Sans";
+    font-size: 48px;
+    font-weight: 700;
+	margin-top: -168px;
+	margin-left: 774px;
+}
+/*------------------------------------------Кнопки benefits*/
+.first{
+	display: flex;
+    justify-content: space-around;
+	width: 951px;
+    height: 206px;
+	margin-left:481px;
+	margin-top: 46px;
+}
+.headerOne{
+	width: 180px;
+    height: 192px;
+
+}
+/*-------------------------------------------Первая кнопка*/
+.item{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #eef3f7;
+    width: 180px;
+    border-radius: 10px;
+    height: 120px;
+ 
+}
+.but{
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 122px;
+	height: 60px;
+
+}
+.text{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin-top: 30px;
+	
+
+}
+.text h5{
+	font-size: 17px;
+    font-weight: 700;
+    font-family: "PT Sans";
+}
+.text p{
+	font-size: 14px;
+	font-weight: 500;
+	font-family: "PT Sans";
+}
+.login{
+	position: absolute;
+	display: flex;
+	border-radius: 20px;
+	align-items: center;
+	justify-content: center;
+	color: #0d83f6;
+	font-size: 21px;
+	letter-spacing: 2px;
+	font-weight: 700;
+	width: 120px;
+    height: 34px;
+    background-color: #eef3f7;
+}
+.line{
+	position: relative;
+	width: 122px;
+	height: 60px;
+	background: url(../img/benefits/line1.png) no-repeat center, url(../img/benefits/line2.png) no-repeat center;
+}
+/*-------------------------------------------Вторая кнопка*/
+.item2 {
+	display: flex;
+	flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #eef3f7;
+    width: 180px;
+    border-radius: 10px;
+    height: 120px;
+}
+.gogle{
+    font-size: 17px;
+	font-weight: 700;
+	font-family: "PT Sans";
+	color: #0d83f6;
+	letter-spacing: 1;
+}
+.wh{
+	letter-spacing: 2;
+	font-weight: 700;
+	font-family: "PT Sans";
+	color: #0d83f6;
+}
+/*-------------------------------------------Третяя кнопка*/
+.item3 {
+	display: flex;
+	flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #eef3f7;
+    width: 180px;
+    border-radius: 10px;
+    height: 120px;
+ }
+
+
+  .circle {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 44px;
+	height: 44px;
+	background-color: #eef3f7;
+	border-radius: 50%;
+	margin-top: 20px;
+ }
+
+ .circle p {
+	font-size: 32px;
+	margin-top: 11px;
+	color: #0d83f6;
+	margin-left: 1px;
+ }
+.strela{
+	width: 50px;
+	height: 50px;
+	background: url("../img/benefits/strela.png") no-repeat center;
+	margin-left: 72px;
+	margin-top: -36px;
+	margin-bottom: -11px;
+ }
+ .touch{
+ 	color: #0d83f6;
+ 	font-size: 17px;
+ 	font-weight: 600;
+ 	margin-bottom: 10px;
+ }
+
+/*-------------------------------------------Четвертая кнопка*/
+.item4{
+	display: flex;
+	flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #eef3f7;
+    width: 180px;
+    border-radius: 10px;
+    height: 120px;
+}
+.solar{
+	width: 40px;
+	height: 40px;
+	background: url(../img/benefits/solar.png) no-repeat center;
+	margin-bottom: -3px;
+	margin-left: 3px;;
+}
+.circle2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 44px;
+	height: 44px;
+	background-color: #eef3f7;
+	border-radius: 50%;
+	margin-top: 10px;
+ }
+ .strela2{
+	width: 50px;
+	height: 50px;
+	background: url("../img/benefits/strela.png") no-repeat center;
+	margin-left: 72px;
+	margin-top: -36px;
+	margin-bottom: -11px;
+ }
+ /**/
+ /*------------------------------Нижние кнопки*/
+ /*-----------------------------------------------Кнопка пять*/
+ .item5{
+	display: flex;
+	flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #eef3f7;
+    width: 180px;
+    border-radius: 10px;
+    height: 120px;
+    
+}
+.circle3 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 44px;
+	height: 44px;
+	background-color: #0d83f6;
+	border-radius: 50%;
+	margin-top: 10px;
+ }
+ .heart{
+ 	
+ 	width: 40px;
+ 	height: 40px;
+ 	font-size: 40px;
+    background: url(../img/benefits/heart.png) no-repeat center;
+ 	margin-top: 13px;
+ }
+ .text5{
+ 	color: #0d83f6;
+ 	font-weight: 600;
+ }
+ .border2{
+ 	display: flex;
+ 	justify-content: center;
+ 	align-items: center;
+ 	flex-direction: column;
+ 	width: 140px;
+ 	height: 100px;
+ 	border:2px dotted #0d83f6;
+ 	border-radius: 20px;
+ }
+
+/*-----------------------------------------------Кнопка шесть*/
+.item6{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid #eef3f7;
+    width: 180px;
+    border-radius: 10px;
+    height: 120px;
+}
+.circle4{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 44px;
+	height: 44px;
+	background-color: #eef3f7;
+	border-radius: 50%;
+	margin-top: 10px;
+}
+.circle4 p {
+	font-size: 32px;
+	margin-top: 11px;
+	color: #0d83f6;
+	margin-left: 1px;
+ }
+ .dot{
+ 	font-size: 32px;
+ 	color: #0d83f6;
+ 	margin-top: 10px;
+ }
+ .circle5{
+ 	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 44px;
+	height: 44px;
+	background-color: #0d83f6;
+	border-radius: 50%;
+	margin-top: 10px;
+ }
+ .user{
+ 	width: 20px;
+ 	height: 25px;
+    background: url(../img/benefits/user.png) no-repeat center;
+ }
+ .easy{
+ 	color: #0d83f6;
+ 	font-weight: 600;
+ }
+/*-----------------------------------------------Кнопка семь*/
+.item7{
+	display: flex;
+	
+    justify-content: space-around;
+    align-items: center;
+    border: 3px solid #eef3f7;
+    width: 180px;
+    border-radius: 10px;
+    height: 120px;
+}
+.arrowsLeft{
+    width: 40px;
+    height: 40px;
+    background: url(../img/benefits/right.png) no-repeat center;
+}
+.palm{
+    width: 76px;
+    height: 80px;
+    background: #eef3f7;
+    border-radius: 18px;
+}
+.palmS{
+	width: 55px;
+	height: 62px;
+	margin-top: 18px;
+	margin-left: 10px;
+	background: url(../img/benefits/palmS.png) no-repeat center; 
+}
+.arrowsRight{
+    width: 40px;
+    height: 40px;
+    background: url(../img/benefits/left.png) no-repeat center;
+}
+/*-----------------------------------------------Кнопка восемь*/
+.item8{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    border: 3px solid #eef3f7;
+    width: 180px;
+    border-radius: 10px;
+    height: 120px;
+    line-height: .1;
+}
+.elem2{
+    width: 79px;
+    height: 15px;
+    color: #0d83f6;
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size: 14px;
+    letter-spacing: 0.56px;
+    margin-left: 28px;
+    margin-top: 11px;
+}
+.elem3{
+    
+    color: #0d83f6;
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size: 14px;
+    letter-spacing: 0.56px;
+}
+/*------------------------Синяя рзделительная черта*/
+.BlueLine{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+    width: 1920px;
+    height: 150px;
+    background-color: #0d83f6;
+}
+.BlueLine p{
+	width: 880px;
+    height: 44px;
+    color: #ffffff;
+    font-family: "PT Sans";
+    font-size: 47px;
+    font-weight: 700;
+}
+/*----------------------------Список и 3 кнопки*/
+.block{
+    display: flex;
+    justify-content: space-around;
+	width: 951px;
+    height: 500px;
+    margin-left: 480px;
+    margin-top: 20px;
+}
+.mather{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 270px;
+	height: 500px;
+}
+.call{
+	background:url(../img/benefits/call.png) no-repeat center;
+	width: 270px;
+    height: 180px;
+    border:6px solid #11c551;
+    border-radius: 15px;
+}
+.keep{
+   font-size: 22px;
+   font-weight: 700;
+   font-family: "PT Sans";
+   margin-top: 25px;
+   letter-spacing: 1;
+}
+.listOne ul{
+    color: #11c551;
+    margin-top: 20px;
+}
+.listOne span{
+    color: black;
+    font-weight: 300;
+    font-size: 18px;
+    letter-spacing: 1;
+}
+.matherTwo{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 270px;
+	height: 500px;
+}
+.melody{
+	background:url(../img/benefits/melody.png) no-repeat center;
+	width: 270px;
+    height: 180px;
+    border:6px solid #5911c4;
+    border-radius: 15px;
+}
+.Be{
+   font-size: 22px;
+   font-weight: 700;
+   font-family: "PT Sans";
+   margin-top: 25px;
+   letter-spacing: 1;
+}
+.listTwo ul{
+   color: #5911c4;
+   margin-top: 20px;
+}
+.listTwo span{
+   color: black;
+   font-weight: 300;
+   font-size: 18px;
+   letter-spacing: 1;
+}
+.matherThree{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 270px;
+	height: 500px;
+}
+.heartRed{
+	background:url(../img/benefits/heartRed.png) no-repeat center;
+	width: 270px;
+    height: 180px;
+    border:6px solid #ee304e;
+    border-radius: 15px;
+}
+.health{
+    font-size: 22px;
+    font-weight: 700;
+    font-family: "PT Sans";
+    margin-top: 25px;
+    letter-spacing: 1;
+}
+.listThree ul{
+    color: #ee304e;
+    margin-top: 20px;
+}   
+.listThree span{
+	color: black;
+    font-weight: 300;
+    font-size: 18px;
+    letter-spacing: 1;
+}
+/*------------------------Планшет часы сердце градиент*/
+.gradient{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 1800px;
+    height: 390px;
+    box-shadow: inset 0 0 201px #ffffff;
+    background-color: #ffffff;
+    background-image: linear-gradient(to top, #eef3f7 0%, #d7e5f1 42%, #ffffff 100%);
+}
+.planshet{
+	margin-right: 20px;
+	width: 543px;
+	height: 318px;
+	background: url(../img/benefits/planshet.png);
+}
+.plus{
+	margin-right: 20px;
+	width: 52px;
+	height: 52px;
+	background: url(../img/benefits/plus.png);
+}
+.clock{
+	margin-right: 20px;
+	width: 129px;
+	height: 195px;
+	background: url(../img/benefits/clock.png);
+}
+.connect{
+	margin-right: 20px;
+	width: 182px;
+	height: 124px;
+	background: url(../img/benefits/connect.png);
+}
+/*-----------------Будь на связи*/
+
+.BeConnected{
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	width: 1920px;
+    height: 570px;
+    background-color: #02d1a8;
+
+}
+.mobile{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 1920px;
+	height:570px;
+}
+.slogan{
+	align-self: center;
+	width: 700px;
+    height: 44px;
+    color: #ffffff;
+    font-family: "PT Sans";
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 40px;
+}
+.android{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	display: flex;
+}
+.ios{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	display: flex;
+}
+.note{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	display: flex;
+}
+.webManage{
+	display: flex;
+	align-self: center;
+	width: 285px;
+	height: 31px;
+	color: #ffffff;
+	font-family: "PT Sans";
+	font-size: 34px;
+	font-weight: 400;
+	margin-left: 100px
+}
+.and{
+	display: flex;
+	align-self: center;
+	width: 185px;
+	height: 31px;
+	color: #ffffff;
+	font-family: "PT Sans";
+	font-size: 34px;
+	font-weight: 400;
+	margin-left: 40px;
+}
+.io{
+	display: flex;
+	align-self: center;
+	width: 185px;
+	height: 31px;
+	color: #ffffff;
+	font-family: "PT Sans";
+	font-size: 34px;
+	font-weight: 400;
+	margin-left: 130px;
+}
+.telOne{
+
+	width: 216px;
+    height: 337px;
+    background: url(../img/benefits/telOne.png);
+
+}
+.telTwo{
+    width: 303px;
+	height: 335px;
+    background: url(../img/benefits/iOS.png);
+
+} 
+.book{
+	width: 594px;
+	height: 335px;
+	background: url(../img/benefits/book.png);
+}
+/*------------------------------Pricing plans*/
+.headerText{
+	display: flex;
+	justify-content: center;
+	align-self: center;
+	width: 100vw;
+	height: 100px;
+	color: #223444;
+	font-family: "PT Sans";
+	font-size: 48px;
+	font-weight: 700;
+}
+/*----------------------------Order Pre-Order*/
+.OrderS{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	width: 800px;
+	height: 600px;
+	margin-left: 25%;
+}
+.preOrder{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	width: 360px;
+	height: 510px;
+}
+.preOrder1{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	width: 360px;
+	height: 510px;
+}
+.top{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+    width: 360px;
+    height: 150px;
+    background-color: #02d1a8;
+    border-radius: 10px 10px 0 0;
+}
+.top1{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+    width: 360px;
+    height: 150px;
+    background-color: #c4d2dd;
+    border-radius: 10px 10px 0 0;
+}
+.top1 p{
+	color: #223444;
+	font-family: "PT Sans";
+	font-size: 32px;
+	font-weight: 400;
+}
+.top1 p + p{
+	margin-top: -20px;
+	color: #223444;
+	font-family: "PT Sans";
+	font-size: 38px;
+	font-weight: 700;
+}
+.top p{
+	color: #ffffff;
+	font-family: "PT Sans";
+	font-size: 32px;
+	font-weight: 400;
+}
+.top p + p{
+	margin-top: -20px;
+	color: #ffffff;
+	font-family: "PT Sans";
+	font-size: 38px;
+	font-weight: 700;	
+}
+.boottom{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+    width: 360px;
+    height: 510px;
+    background-color: #eef3f7;
+    border-radius: 0 0 10px 10px;
+}
+.boottom1{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+    width: 360px;
+    height: 510px;
+    background-color: #eef3f7;
+    border-radius: 0 0 10px 10px;
+}
+.whiteLine {
+    color: #223444;
+	font-family: "Open Sans";
+	font-size: 23px;
+	font-weight: 400;
+	line-height: 60px;
+	border-bottom: 3px solid white;
+    margin-top: -3px;
+
+}
+.PON{
+	width: 300px;
+	height: 80px;
+	background-color: #eb1478;
+	border-radius:40px;
+	color: #ffffff;
+    font-family: "PT Sans";
+	font-size: 30px;
+	font-weight: 700;
+	margin-bottom: 10px;
+    
+}
+.PON1{
+	width: 300px;
+	height: 80px;
+	border:4px solid #0d83f6;
+	background-color: #eef3f7;
+	border-radius:40px;
+	color: #0d83f6;
+    font-family: "PT Sans";
+	font-size: 30px;
+	font-weight: 700;
+	margin-bottom: 10px;
+}
+/*--------------------Спецфикации*/
+.specification{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-around;
+	width: 100vw;
+	height: 150px;
+}
+.specification h2{
+	color: #223444;
+	font-family: "PT Sans";
+	font-size: 48px;
+	font-weight: 700;
+}
+.specification h4{
+	color: #223444;
+	font-family: "PT Sans";
+	font-size: 24px;
+	font-weight: 400;
+}
+/*------------------Планшет описание*/
+.osnova{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	width: 100vw;
+	height: 700px;
+}
+.senterOpis{
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 60%;
+	height: 600px;
+}
+.black{
+	position: relative;
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	background:url(../img/benefits/black.png) no-repeat center;
+	width: 840px;
+    height: 567px;
+}
+.whiteB{
+    position: relative;
+	width: 680px; 
+	height: 510px;
+	background:url(../img/benefits/white.png)no-repeat center;
+}
+
+.elips{
+	position: absolute;
+	margin-top: -230px;
+	margin-left: -230px;
+	width: 250px;
+	height: 250px;
+	background: url(../img/benefits/elips1.png) no-repeat center;
+}
+.elips2{
+	position: absolute;
+	margin-top: -230px;
+	margin-left: -230px;
+	width: 211px;
+	height: 211px;
+	background: url(../img/benefits/elips2.png) no-repeat center;
+}
+.elips3{
+	position: absolute;
+	margin-top: -230px;
+	margin-left: -230px;
+	width: 282px;
+	height: 282px;
+	background: url(../img/benefits/elips3.png)no-repeat center;
+}
+.headW{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+	width: 110px;
+	height: 50px;
+}
+.WI{
+	color: #00182f;
+	font-family: "Open Sans";
+	font-size: 11px;
+	font-weight: 700;
+    margin-top: 14px;
+}
+.dotB{
+	width: 5px;
+	height: 5px;
+	background-color: #2c4053;
+	border-radius: 50%;
+}
+.dotBL{
+	width: 5px;
+	height: 5px;
+	background-color: #2c4053;
+	border-radius: 50%;
+}
+.dotL{
+	width: 10px;
+	height: 10px;
+	background-color: #11c551;
+	border-radius: 50%;
+}
+.dotC{
+	width: 10px;
+	height: 10px;
+	background-color: #11c551;
+	border-radius: 50%;
+}
+.dotR{
+	width: 10px;
+	height: 10px;
+	background-color: #11c551;
+	border-radius: 50%;
+}
+.headC{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 120px;
+	height: 50px;
+	color: #00182f;
+	font-family: "Open Sans";
+	font-size: 24px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.headC p{
+    margin-top: 14px;
+}
+.butL{
+	width: 20px;
+	height: 30px;
+	background-color: #00182f;
+	border-radius: 0 10px 10px 0;
+}
+.but{
+	color: #d7ebfe;
+	background-color: #007cf7;
+	width: 100px;
+	height: 30px;
+	border-radius: 10px 0 0 10px;
+}
+.headRi{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 200px;
+	height: 50px;
+}
+.headRi p{
+	margin-top: 15px;
+	margin-right:10px;
+}
+.bigHead{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	height: 60px;
+}
+.logoG{
+	background: url(../img/benefits/logoG.png)no-repeat center;
+	margin-top: 25%;
+	margin-left: 30%;
+	width: 310px;
+	height: 100px;
+}
+.leftOpis{
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	width: 20%;
+	height: 600px;
+}
+.lineLV{
+	position: absolute;
+	margin-left: -150px;
+	width: 200px;
+	height: 150px;
+	background: url(../img/benefits/lineLV.png)no-repeat;
+}
+.lineLN{
+	position: absolute;
+	margin-top: 370px;
+	margin-left: -120px;
+	width: 200px;
+	height: 150px;
+	background: url(../img/benefits/lineLN.png) no-repeat;
+}
+.lineRV{
+	position: absolute;
+	width: 220px;
+	height: 150px;
+	margin-left: 550px;
+	margin-top: 180px;
+	background: url(../img/benefits/lineRV.png) no-repeat;
+}
+.verh p {
+	height: 220px;
+	display: flex;
+	align-items: center;
+    color: #313e4a;
+    border-right: 3px solid #0c82f7;
+	font-family: "PT Sans";
+	font-size: 36px;
+	font-weight: 400;
+}
+.niz p{
+	height: 60px;
+	display: flex;
+	align-items: center;
+	color: #313e4a;
+	border-right: 3px solid #0c82f7;
+	font-family: "PT Sans";
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 24px;
+}
+.center{
+	border-left: 3px solid #0c82f7;
+}
+.center p{
+	color: #313e4a;
+	font-family: "PT Sans";
+	font-size: 36px;
+	font-weight: 400;	
+	margin-right: 70px;
+}
+.rightOpis{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 15%;
+	height: 600px;
+}
+.hpala{
+
+	margin-top: 420px;
+	margin-left: -90px;
+	position: absolute;
+	width: 864px;
+    height: 76px;
+	background: url(../img/benefits/hpala.png) no-repeat;
+}
+.g{
+	width: 100%;
+	height: 100px;
+	background: url(../img/benefits/g.png) no-repeat center;
+}
+.ten{
+	position: absolute;
+	background: url(../img/benefits/ten.png) no-repeat;
+    width: 983px;
+	height: 134px;
+	margin-top: 390px;
+	margin-left: -280px;
+}
+.tenniz{
+	position: absolute;
+	background: url(../img/benefits/tenniz.png) no-repeat;
+	width: 881px;
+	height: 42px;
+	margin-top: 457px;
+	margin-left: -100px;
+
+}
+.dim{
+	position: absolute;
+	background: url(../img/benefits/dim.png) no-repeat;
+	width: 864px;
+	height: 76px;
+	margin-top: 420px;
+	margin-left: -90px;
+}
+.roj{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+	margin-top: -100px;
+	width: 100vw;
+	height: 300px;
+	background-color: #e3187b;
+}
+.roj p{
+    color: #ffffff;
+	font-family: "PT Sans";
+	font-size: 14px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.roj a{
+	width: 270px;
+	height: 40px;
+    background: url(../img/benefits/indy.png) no-repeat center;
+}
+/*--------------------------------Footer*/
+
+
+.EndText{
+	display: flex;
+	flex-direction: column;	
+	justify-content: space-around;
+	align-items: center;
+	width: 100vw;
+	height: 200px;
+	border-bottom: 1px solid #edeeee;
+
+
+}
+.EndText pre{
+	display: flex;
+	align-items: center;
+    justify-content: center;
+    width: 900px;
+    height: 200px;
+	color: #223444;
+	font-family: "PT Sans";
+	font-size: 28px;
+	font-weight: 400;
+	line-height: 36px;
+}
+.footer{
+	display: flex;
+	align-items: center;
+    justify-content: space-around;
+	width: 1200px;
+	height: 100px;
+	margin-left: 250px
+}
+.leftFooter{
+	display: flex;
+	align-items: center;
+}
+.GG{
+	width: 40px;
+	height: 46px;
+	background: url(../img/benefits/ic.png)no-repeat center;
+}
+.com{
+	margin-left: 5px;
+    margin-top: 25px;
+	color: #4f5e68;
+	font-family: "PT Sans";
+	font-size: 14px;
+	font-weight: 400;
+}
+.navF{
+	width: 530px;
+	display: flex;
+	justify-content: space-around;
+}
+.navF a{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #4f5e68;
+	font-family: "PT Sans";
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 24px;
+	letter-spacing: 1px;
+	height: 40px;
+	border-right:3px solid #eef3f7;
+	text-decoration: none;
+}
+.navF a:last-child{
+	border:none;
+	padding-left: 10px
+}
+.navF a:first-child{
+	padding-left: 50px;
+}
+.tire{
+	width: 150px;
+
+}
+.follow{
+	width: 114px;
+    height: 28px;
+    background: url(../img/benefits/follow.png)no-repeat center;
+}
